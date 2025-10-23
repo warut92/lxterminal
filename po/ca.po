@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-23 21:42+0200\n"
-"PO-Revision-Date: 2018-09-28 11:32+0000\n"
+"PO-Revision-Date: 2025-10-23 10:35+0200\n"
 "Last-Translator: Davidmp <rbndavid@gmail.com>\n"
 "Language-Team: Catalan <josep.sanchez@ubuntu.cat>\n"
 "Language: ca\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
+"X-Generator: Poedit 3.6\n"
 "X-POOTLE-MTIME: 1538134327.076738\n"
 
 #: ../src/lxterminal.c:129
@@ -112,10 +112,8 @@ msgid "New _Tab"
 msgstr "Pestanya _nova"
 
 #: ../src/lxterminal.c:163
-#, fuzzy
-#| msgid "Copy _URL"
 msgid "Open _URL"
-msgstr "Copia l'_URL"
+msgstr "Obre l'_URL"
 
 #: ../src/lxterminal.c:164
 msgid "Copy _URL"
@@ -140,7 +138,7 @@ msgstr "_D'acord"
 #. TRANSLATORS: Replace this string with your names, one name per line.
 #: ../src/lxterminal.c:776
 msgid "translator-credits"
-msgstr "Crèdits dels traductors"
+msgstr "Davidmp"
 
 #: ../src/lxterminal.c:782 ../src/preferences.c:293
 #: ../data/lxterminal.desktop.in.h:1
@@ -157,7 +155,7 @@ msgstr "Emulador de terminal del projecte LXDE"
 
 #: ../src/lxterminal.c:816
 msgid "LXTerminal Terminal Emulator"
-msgstr ""
+msgstr "Emulador de terminal LXterminal"
 
 #: ../src/lxterminal.c:850
 #, c-format
@@ -206,7 +204,7 @@ msgstr "Permet la negreta"
 
 #: ../data/lxterminal-preferences.glade.h:10
 msgid "Bold is bright"
-msgstr ""
+msgstr "La negreta és brillant"
 
 #: ../data/lxterminal-preferences.glade.h:11
 msgid "Cursor blink"
@@ -229,10 +227,8 @@ msgid "Audible bell"
 msgstr "Campana audible"
 
 #: ../data/lxterminal-preferences.glade.h:16
-#, fuzzy
-#| msgid "Audible bell"
 msgid "Visual bell"
-msgstr "Campana audible"
+msgstr "Campana visual"
 
 #: ../data/lxterminal-preferences.glade.h:17
 msgid "Black"
@@ -360,12 +356,11 @@ msgstr "Inhabilita l'ús d'Alt-n per a les pestanyes i el menú"
 
 #: ../data/lxterminal-preferences.glade.h:48
 msgid "Disable confirmation before closing a window with multiple tabs"
-msgstr ""
-"Inhabilita la confirmació abans de tancar una finestra amb més d'una pestanya"
+msgstr "Inhabilita la confirmació abans de tancar una finestra amb més d'una pestanya"
 
 #: ../data/lxterminal-preferences.glade.h:49
 msgid "Tab width"
-msgstr ""
+msgstr "Amplada de la pestanya"
 
 #: ../data/lxterminal-preferences.glade.h:50
 msgid "Advanced"
@@ -437,7 +432,7 @@ msgstr "Useu la línia d'ordres"
 
 #: ../data/lxterminal.desktop.in.h:4
 msgid "console;command line;execute;"
-msgstr "consola; línia d'ordres; executa"
+msgstr "consola;línia d'ordres;executa"
 
 #~ msgid "West European"
 #~ msgstr "Europeu de l'oest"
@@ -554,9 +549,7 @@ msgstr "consola; línia d'ordres; executa"
 #~ msgstr "gtk-d'acord"
 
 #~ msgid "Failed to launch the web browser. The command was `%s'\n"
-#~ msgstr ""
-#~ "S'ha produït un error en arrencar el navegador web. L'ordre ha estat `"
-#~ "%s'.\n"
+#~ msgstr "S'ha produït un error en arrencar el navegador web. L'ordre ha estat `%s'.\n"
 
 #~ msgid "Misc"
 #~ msgstr "Misc"

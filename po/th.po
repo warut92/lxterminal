@@ -1,15 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Warut Bunprasert <warut.b@disroot.org>, 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-23 21:42+0200\n"
-"PO-Revision-Date: 2015-08-17 01:30+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2026-02-14 23:30+0700\n"
+"Last-Translator: Warut Bunprasert <warut.b@disroot.org>, 2026\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -21,415 +21,415 @@ msgstr ""
 
 #: ../src/lxterminal.c:129
 msgid "_File"
-msgstr ""
+msgstr "ไ_ฟล์"
 
 #: ../src/lxterminal.c:130
 msgid "_Edit"
-msgstr ""
+msgstr "แ_ก้ไข"
 
 #: ../src/lxterminal.c:131
 msgid "_Tabs"
-msgstr ""
+msgstr "แ_ท็บ"
 
 #: ../src/lxterminal.c:132
 msgid "_Help"
-msgstr ""
+msgstr "_ช่วยเหลือ"
 
 #: ../src/lxterminal.c:133
 msgid "_New Window"
-msgstr ""
+msgstr "_หน้าต่างใหม่"
 
 #: ../src/lxterminal.c:134
 msgid "New T_ab"
-msgstr ""
+msgstr "แ_ท็บใหม่"
 
 #: ../src/lxterminal.c:136 ../src/lxterminal.c:176
 msgid "_Close Tab"
-msgstr ""
+msgstr "_ปิดแท็บ"
 
 #: ../src/lxterminal.c:137
 msgid "Close _Window"
-msgstr ""
+msgstr "ปิด_หน้าต่าง"
 
 #: ../src/lxterminal.c:138 ../src/lxterminal.c:165
 msgid "Cop_y"
-msgstr ""
+msgstr "สำเนา"
 
 #: ../src/lxterminal.c:139 ../src/lxterminal.c:166
 msgid "_Paste"
-msgstr ""
+msgstr "_วาง"
 
 #: ../src/lxterminal.c:140
 msgid "Clear scr_ollback"
-msgstr ""
+msgstr "ล้างการเลื่อน"
 
 #: ../src/lxterminal.c:142
 msgid "Zoom _In"
-msgstr ""
+msgstr "ซูม_เข้า"
 
 #: ../src/lxterminal.c:143
 msgid "Zoom O_ut"
-msgstr ""
+msgstr "ซูม_ออก"
 
 #: ../src/lxterminal.c:144
 msgid "Zoom _Reset"
-msgstr ""
+msgstr "_คืนค่าซูม"
 
 #: ../src/lxterminal.c:146 ../src/lxterminal.c:169
 msgid "Preference_s"
-msgstr ""
+msgstr "การ_ตั้งค่า"
 
 #: ../src/lxterminal.c:147 ../src/lxterminal.c:171
 msgid "Na_me Tab"
-msgstr ""
+msgstr "_ตั้งชื่อแท็บ"
 
 #: ../src/lxterminal.c:148 ../src/lxterminal.c:172
 msgid "Pre_vious Tab"
-msgstr ""
+msgstr "แท็บ_ก่อนหน้า"
 
 #: ../src/lxterminal.c:149 ../src/lxterminal.c:173
 msgid "Ne_xt Tab"
-msgstr ""
+msgstr "แท็บ_ถัดไป"
 
 #: ../src/lxterminal.c:150 ../src/lxterminal.c:174
 msgid "Move Tab _Left"
-msgstr ""
+msgstr "ย้ายแท็บ_ซ้าย"
 
 #: ../src/lxterminal.c:151 ../src/lxterminal.c:175
 msgid "Move Tab _Right"
-msgstr ""
+msgstr "ย้ายแท็บ_ขวา"
 
 #: ../src/lxterminal.c:152
 msgid "_About"
-msgstr ""
+msgstr "เ_กี่ยวกับ"
 
 #: ../src/lxterminal.c:160
 msgid "New _Window"
-msgstr ""
+msgstr "ใหม่ _หน้าต่าง"
 
 #: ../src/lxterminal.c:161
 msgid "New _Tab"
-msgstr ""
+msgstr "ใหม่_แท็บ"
 
 #: ../src/lxterminal.c:163
 msgid "Open _URL"
-msgstr ""
+msgstr "เปิด _URL"
 
 #: ../src/lxterminal.c:164
 msgid "Copy _URL"
-msgstr ""
+msgstr "คัดลอก _URL"
 
 #: ../src/lxterminal.c:167
 msgid "Cl_ear scrollback"
-msgstr ""
+msgstr "_ล้างการเลื่อนกลับ"
 
 #: ../src/lxterminal.c:603 ../data/lxterminal-preferences.glade.h:57
 msgid "Name Tab"
-msgstr ""
+msgstr "แท็บชื่อ"
 
 #: ../src/lxterminal.c:606
 msgid "_Cancel"
-msgstr ""
+msgstr "_ยกเลิก"
 
 #: ../src/lxterminal.c:607
 msgid "_OK"
-msgstr ""
+msgstr "_ตกลง"
 
 #. TRANSLATORS: Replace this string with your names, one name per line.
 #: ../src/lxterminal.c:776
 msgid "translator-credits"
-msgstr ""
+msgstr "Warut Bunprasert <warut.b@disroot.org>, 2026"
 
 #: ../src/lxterminal.c:782 ../src/preferences.c:293
 #: ../data/lxterminal.desktop.in.h:1
 msgid "LXTerminal"
-msgstr ""
+msgstr "LXTerminal"
 
 #: ../src/lxterminal.c:784
 msgid "Copyright (C) 2008-2025"
-msgstr ""
+msgstr "ลิขสิทธิ์ (C) 2008-2025"
 
 #: ../src/lxterminal.c:785
 msgid "Terminal emulator for LXDE project"
-msgstr ""
+msgstr "โปรแกรมจำลองเทอร์มินัลสำหรับโครงการ LXDE"
 
 #: ../src/lxterminal.c:816
 msgid "LXTerminal Terminal Emulator"
-msgstr ""
+msgstr "โปรแกรมจำลองเทอร์มินัล LXTerminal"
 
 #: ../src/lxterminal.c:850
 #, c-format
 msgid "You are about to close %d tabs. Are you sure you want to continue?"
-msgstr ""
+msgstr "คุณแน่ใจหรือไม่ที่กำลังจะปิด %d แท็บ "
 
 #: ../src/lxterminal.c:851
 msgid "Confirm close"
-msgstr ""
+msgstr "ยืนยันการปิด"
 
 #: ../data/lxterminal-preferences.glade.h:1
 msgid "Top"
-msgstr ""
+msgstr "ด้านบน"
 
 #: ../data/lxterminal-preferences.glade.h:2
 msgid "Bottom"
-msgstr ""
+msgstr "ด้านล่าง"
 
 #: ../data/lxterminal-preferences.glade.h:3
 msgid "Left"
-msgstr ""
+msgstr "ซ้าย"
 
 #: ../data/lxterminal-preferences.glade.h:4
 msgid "Right"
-msgstr ""
+msgstr "ขวา"
 
 #: ../data/lxterminal-preferences.glade.h:5
 msgid "LXTerminal Preferences"
-msgstr ""
+msgstr "การตั้งค่า LXTerminal"
 
 #: ../data/lxterminal-preferences.glade.h:6
 msgid "Terminal font"
-msgstr ""
+msgstr "แบบอักษร"
 
 #: ../data/lxterminal-preferences.glade.h:7
 msgid "Background"
-msgstr ""
+msgstr "พื้นหลัง"
 
 #: ../data/lxterminal-preferences.glade.h:8
 msgid "Foreground"
-msgstr ""
+msgstr "เบื้องหน้า"
 
 #: ../data/lxterminal-preferences.glade.h:9
 msgid "Allow bold font"
-msgstr ""
+msgstr "อนุญาตให้ใช้แบบอักษรตัวหนา"
 
 #: ../data/lxterminal-preferences.glade.h:10
 msgid "Bold is bright"
-msgstr ""
+msgstr "ตัวหนามีความสดใส"
 
 #: ../data/lxterminal-preferences.glade.h:11
 msgid "Cursor blink"
-msgstr ""
+msgstr "เคอร์เซอร์กะพริบ"
 
 #: ../data/lxterminal-preferences.glade.h:12
 msgid "Cursor style"
-msgstr ""
+msgstr "รูปแบบเคอร์เซอร์"
 
 #: ../data/lxterminal-preferences.glade.h:13
 msgid "Block"
-msgstr ""
+msgstr "เส้นบล็อค"
 
 #: ../data/lxterminal-preferences.glade.h:14
 msgid "Underline"
-msgstr ""
+msgstr "ขีดเส้นใต้"
 
 #: ../data/lxterminal-preferences.glade.h:15
 msgid "Audible bell"
-msgstr ""
+msgstr "เสียงกระดิ่ง"
 
 #: ../data/lxterminal-preferences.glade.h:16
 msgid "Visual bell"
-msgstr ""
+msgstr "รูปกระดิ่ง"
 
 #: ../data/lxterminal-preferences.glade.h:17
 msgid "Black"
-msgstr ""
+msgstr "สีดำ"
 
 #: ../data/lxterminal-preferences.glade.h:18
 msgid "Red"
-msgstr ""
+msgstr "สีแดง"
 
 #: ../data/lxterminal-preferences.glade.h:19
 msgid "Green"
-msgstr ""
+msgstr "สีเขียว"
 
 #: ../data/lxterminal-preferences.glade.h:20
 msgid "Brown"
-msgstr ""
+msgstr "สีน้ำตาล"
 
 #: ../data/lxterminal-preferences.glade.h:21
 msgid "Blue"
-msgstr ""
+msgstr "สีฟ้า"
 
 #: ../data/lxterminal-preferences.glade.h:22
 msgid "Magenta"
-msgstr ""
+msgstr "สีม่วงแดง"
 
 #: ../data/lxterminal-preferences.glade.h:23
 msgid "Cyan"
-msgstr ""
+msgstr "สีฟ้า"
 
 #: ../data/lxterminal-preferences.glade.h:24
 msgid "Gray"
-msgstr ""
+msgstr "สีเทา"
 
 #: ../data/lxterminal-preferences.glade.h:25
 msgid "Darkgray"
-msgstr ""
+msgstr "เทาเข้ม"
 
 #: ../data/lxterminal-preferences.glade.h:26
 msgid "Bright Red"
-msgstr ""
+msgstr "สีแดงสดใส"
 
 #: ../data/lxterminal-preferences.glade.h:27
 msgid "Bright Green"
-msgstr ""
+msgstr "สีเขียวสดใส"
 
 #: ../data/lxterminal-preferences.glade.h:28
 msgid "Yellow"
-msgstr ""
+msgstr "สีเหลือง"
 
 #: ../data/lxterminal-preferences.glade.h:29
 msgid "Bright Blue"
-msgstr ""
+msgstr "ฟ้าสดใส"
 
 #: ../data/lxterminal-preferences.glade.h:30
 msgid "Bright Magenta"
-msgstr ""
+msgstr "สีม่วงแดงสดใส"
 
 #: ../data/lxterminal-preferences.glade.h:31
 msgid "Bright Cyan"
-msgstr ""
+msgstr "สีฟ้าสดใส"
 
 #: ../data/lxterminal-preferences.glade.h:32
 msgid "White"
-msgstr ""
+msgstr "สีขาว"
 
 #: ../data/lxterminal-preferences.glade.h:33
 msgid "Palette"
-msgstr ""
+msgstr "จานสี"
 
 #: ../data/lxterminal-preferences.glade.h:34
 msgid "Palette Preset"
-msgstr ""
+msgstr "จานสีที่ตั้งไว้ล่วงหน้า"
 
 #: ../data/lxterminal-preferences.glade.h:35
 msgid "Style"
-msgstr ""
+msgstr "รูปแบบ"
 
 #: ../data/lxterminal-preferences.glade.h:36
 msgid "Tab panel position"
-msgstr ""
+msgstr "ตำแหน่งพาแนลแท็บ"
 
 #: ../data/lxterminal-preferences.glade.h:37
 msgid "Scrollback lines"
-msgstr ""
+msgstr "เส้นเลื่อนกลับ"
 
 #: ../data/lxterminal-preferences.glade.h:38
 msgid "Hide scroll bar"
-msgstr ""
+msgstr "ซ่อนแถบเลื่อน"
 
 #: ../data/lxterminal-preferences.glade.h:39
 msgid "Hide menu bar"
-msgstr ""
+msgstr "ซ่อนแถบเมนู"
 
 #: ../data/lxterminal-preferences.glade.h:40
 msgid "Hide Close buttons"
-msgstr ""
+msgstr "ซ่อนปุ่มปิด"
 
 #: ../data/lxterminal-preferences.glade.h:41
 msgid "Hide mouse pointer"
-msgstr ""
+msgstr "ซ่อนตัวชี้เมาส์"
 
 #: ../data/lxterminal-preferences.glade.h:42
 msgid "Default window size"
-msgstr ""
+msgstr "ขนาดหน้าต่างเริ่มต้น"
 
 #: ../data/lxterminal-preferences.glade.h:43
 msgid "x"
-msgstr ""
+msgstr "x"
 
 #: ../data/lxterminal-preferences.glade.h:44
 msgid "Display"
-msgstr ""
+msgstr "แสดง"
 
 #: ../data/lxterminal-preferences.glade.h:45
 msgid "Select-by-word characters"
-msgstr ""
+msgstr "เลือกตัวอักษรทีละคำ"
 
 #: ../data/lxterminal-preferences.glade.h:46
 msgid "Disable menu shortcut key (F10 by default)"
-msgstr ""
+msgstr "ปิดใช้งานปุ่มทางลัดเมนู (F10 เป็นค่าเริ่มต้น)"
 
 #: ../data/lxterminal-preferences.glade.h:47
 msgid "Disable using Alt-n for tabs and menu"
-msgstr ""
+msgstr "ปิดใช้งานการใช้ Alt-n สำหรับแท็บและเมนู"
 
 #: ../data/lxterminal-preferences.glade.h:48
 msgid "Disable confirmation before closing a window with multiple tabs"
-msgstr ""
+msgstr "ปิดใช้งานการยืนยันก่อนปิดหน้าต่างที่มีหลายแท็บ"
 
 #: ../data/lxterminal-preferences.glade.h:49
 msgid "Tab width"
-msgstr ""
+msgstr "ความกว้างของแท็บ"
 
 #: ../data/lxterminal-preferences.glade.h:50
 msgid "Advanced"
-msgstr ""
+msgstr "ขั้นสูง"
 
 #: ../data/lxterminal-preferences.glade.h:51
 msgid "New Window"
-msgstr ""
+msgstr "หน้าต่างใหม่"
 
 #: ../data/lxterminal-preferences.glade.h:52
 msgid "New Tab"
-msgstr ""
+msgstr "แท็บใหม่"
 
 #: ../data/lxterminal-preferences.glade.h:53
 msgid "Close Tab"
-msgstr ""
+msgstr "ปิดแท็บ"
 
 #: ../data/lxterminal-preferences.glade.h:54
 msgid "Close Window"
-msgstr ""
+msgstr "ปิดหน้าต่าง"
 
 #: ../data/lxterminal-preferences.glade.h:55
 msgid "Copy"
-msgstr ""
+msgstr "คัดลอก"
 
 #: ../data/lxterminal-preferences.glade.h:56
 msgid "Paste"
-msgstr ""
+msgstr "วาง"
 
 #: ../data/lxterminal-preferences.glade.h:58
 msgid "Previous Tab"
-msgstr ""
+msgstr "แท็บก่อนหน้า"
 
 #: ../data/lxterminal-preferences.glade.h:59
 msgid "Next Tab"
-msgstr ""
+msgstr "แท็บถัดไป"
 
 #: ../data/lxterminal-preferences.glade.h:60
 msgid "Move Tab Left"
-msgstr ""
+msgstr "ย้ายแท็บไปทางซ้าย"
 
 #: ../data/lxterminal-preferences.glade.h:61
 msgid "Move Tab Right"
-msgstr ""
+msgstr "ย้ายแท็บไปทางขวา"
 
 #: ../data/lxterminal-preferences.glade.h:62
 msgid "Zoom In"
-msgstr ""
+msgstr "ซูมเข้า"
 
 #: ../data/lxterminal-preferences.glade.h:63
 msgid "Zoom Out"
-msgstr ""
+msgstr "ซูมออก"
 
 #: ../data/lxterminal-preferences.glade.h:64
 msgid "Zoom Reset"
-msgstr ""
+msgstr "ซูมรีเซ็ต"
 
 #: ../data/lxterminal-preferences.glade.h:65
 msgid "Shortcuts"
-msgstr ""
+msgstr "ทางลัด"
 
 #: ../data/lxterminal.desktop.in.h:2
 msgid "Terminal"
-msgstr ""
+msgstr "เทอร์มินัล"
 
 #: ../data/lxterminal.desktop.in.h:3
 msgid "Use the command line"
-msgstr ""
+msgstr "ใช้บรรทัดคำสั่ง"
 
 #: ../data/lxterminal.desktop.in.h:4
 msgid "console;command line;execute;"
-msgstr ""
+msgstr "คอนโซล;บรรทัดคำสั่ง;ดำเนินการ;"
